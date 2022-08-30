@@ -28,17 +28,5 @@
     "latitude": -19.748612750457653,
     "longitude": -47.95103471734066,
     "name": "CENTRO ADMINISTRATIVO PONTO 2 (ID:179915)"
- },
- {
-   "key": "OIA-OLT-N-01",
-   "latitude": -20.720042348795275,
-   "longitude": -47.88480387507757,
-   "name": "ORLANDIA - SP"
- },
- {
-   "key": "IVR-OLT-N-01",
-   "latitude": -20.335851123884193,
-   "longitude": -47.78515978857777,
-   "name": "ITUVERAVA - SP"
  }
 ]
