@@ -53,10 +53,16 @@
    "longitude": -47.94731841734089,
    "name": "DETIC - DEPARTAMENTO DE TECNOLOGIA E COMUNICAÇÃO (ID:195019)"
  },
-    {
+   {
    "key": "PFM-URA-179576",
    "latitude": -19.741195226434336,
    "longitude": -47.959714042477366,
    "name": "AMBULÂNCIA (ID:179576)"
+ },
+   {
+   "key": "PFM-URA-190543",
+   "latitude": -19.732363417125573,
+   "longitude": -47.93958845966957,
+   "name": "Operacional de Defesa Civil (ID:190543)"
  }
 ]
